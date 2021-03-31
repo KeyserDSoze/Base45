@@ -6,6 +6,8 @@
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Copyright>Copyright ©2021 Alessandro Rapiti</Copyright>
+    <PackageProjectUrl>https://github.com/KeyserDSoze/Base45</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/KeyserDSoze/Base45</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
