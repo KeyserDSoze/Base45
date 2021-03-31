@@ -9,6 +9,7 @@
     <PackageProjectUrl>https://github.com/KeyserDSoze/Base45</PackageProjectUrl>
     <RepositoryUrl>https://github.com/KeyserDSoze/Base45</RepositoryUrl>
     <Authors>Alessandro Rapiti</Authors>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
 </Project>
